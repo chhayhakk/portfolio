@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/chhayhakk/E-commerceFlutter',
         },
         {
-          title: 'Ecommerce Laravel',
+          title: 'Ecommerce Flask',
           description:
             'This is an e-commerce website for online selling clothing using Laravel',
           imageUrl:
             'https://dochub.com/kourk-chhayhak/DL7JlEGV1makjq0VrWe0oa/laravel-pic-png',
-          link: 'https://example.com',
+          link: 'https://github.com/chhayhakk/ecommerce',
         },
       ],
     },
