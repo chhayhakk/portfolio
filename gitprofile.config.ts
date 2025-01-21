@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'www.linkedin.com/in/kourk-chhayhak-579976221',
+    linkedin: 'kourk-chhayhak-579976221',
     twitter: '',
     mastodon: '',
     researchGate: '',
