@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'This is an e-commerce website for online selling clothing using Laravel',
           imageUrl:
-            'https://dochub.com/kourk-chhayhak/DL7JlEGV1makjq0VrWe0oa/laravel-pic-png',
+            'https://dochub.com/kourk-chhayhak/7J4mQvgRvzpl2ZGRj2pO5n/python-logo-only-png',
           link: 'https://github.com/chhayhakk/ecommerce',
         },
       ],
