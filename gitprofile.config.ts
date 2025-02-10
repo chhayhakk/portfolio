@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1R6YQA2dm2d73ih2vc9OxJ2k0aUobgkry/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/12GQBA9sa74mEZYKuslH-DfdrNaF76kdr/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -93,6 +93,7 @@ const CONFIG = {
     'Python',
     'Tailwind',
     'Flask',
+    'Node.js',
   ],
   experiences: [
     {
